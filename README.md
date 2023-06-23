@@ -1,7 +1,7 @@
 ### Opa aqui é o João Miguel 🤘 tudo encima??
 
- - 🌱 Cursando ciência da computação
- - ⚡ Estudando Java 
+ - 🌱 Cursando Ciência da Computação
+ - ⚡ Estudante curioso 
  - 😄 Pronomes: ele/dele
 
 <div>
