@@ -1,8 +1,13 @@
-### Opa aqui é o João Miguel 🤘 tudo encima??
+### Olá sou João Miguel
 
- - 🌱 Cursando Ciência da Computação
- - ⚡ Estudante curioso 
- - 😄 Pronomes: ele/dele
+Estudante de Ciência da Computação, com foco em **Ciência de Dados, Business
+Intelligence e Análise de Dados**. Atuo profissionalmente com orçamentos e
+planejamento na área de publicidade imobiliária, e venho direcionando meus
+estudos para modelagem de dados, ETL, análise exploratória e dashboards.
+
+- 🔭 Atualmente aprofundando SQL, Python e Power BI aplicados à análise de dados
+- 🌱 Praticando projetos de EDA e visualização de dados
+- 📫 Contato: carpesjoao3@gmail.com · [LinkedIn](https://www.linkedin.com/in/joão-miguel-carpes)
 
 <div>
   <a href="https://github.com/JonasM1504">
