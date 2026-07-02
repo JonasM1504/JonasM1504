@@ -3,7 +3,7 @@
 Estudante de Ciência da Computação, com foco em **Ciência de Dados, Business
 Intelligence e Análise de Dados**. Atuo profissionalmente com orçamentos e
 planejamento na área de publicidade imobiliária, e venho direcionando meus
-estudos para modelagem de dados, ETL, análise exploratória e dashboards.
+estudos para modelagem de dados, análise exploratória e dashboards.
 
 - 🔭 Atualmente aprofundando SQL, Python e Power BI aplicados à análise de dados
 - 🌱 Praticando projetos de EDA e visualização de dados
