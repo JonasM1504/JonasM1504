@@ -1,7 +1,7 @@
 ### Olá, sou o João Miguel 👋
 
-Estudante de Ciência da Computação, com foco em **Ciência de Dados, Business
-Intelligence e Análise de Dados**. Atuo profissionalmente com orçamentos e
+Estudante de Ciência da Computação, com foco em Ciência de Dados, Business
+Intelligence e Análise de Dados. Atuo profissionalmente com orçamentos e
 planejamento na área de publicidade imobiliária, e venho direcionando meus
 estudos para modelagem de dados, análise exploratória e dashboards.
 
